@@ -57,3 +57,18 @@ typings/
 # dotenv environment variables file
 .env
 
+vue-spotify/.DS_Store
+vue-spotify/node_modules/
+vue-spotify//dist/
+vue-spotify/npm-debug.log*
+vue-spotify/yarn-debug.log*
+vue-spotify/yarn-error.log*
+vue-spotify/test/unit/coverage/
+
+# Editor directories and files
+vue-spotify/.idea
+vue-spotify/.vscode
+vue-spotify/*.suo
+vue-spotify/*.ntvs*
+vue-spotify/*.njsproj
+vue-spotify/*.sln
