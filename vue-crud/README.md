@@ -2,6 +2,19 @@
 
 > CRUD project for vue training
 
+## Server Setup
+```
+# run slimapp(we are using slimapp for API)
+git clone https://github.com/bradtraversy/slimapp.git
+
+# go to slimapp folder and run(Make sure you've installed composer in your system)
+composer install
+
+# go to slimapp/public and run
+php -S 0.0.0.0:8081
+
+```
+
 ## Build Setup
 
 ``` bash
