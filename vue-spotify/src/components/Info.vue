@@ -1,6 +1,5 @@
 <template>
-  <div class="container">
-    <h1>{{ msg }}</h1>
+  <div class="container text-center">
     <h2>VUE Essential Links</h2>
     <ul>
       <li>
@@ -40,13 +39,11 @@
 
 <script>
 export default {
-  name: "HelloWorld",
-  data() {
-    return {
-      msg: "Welcome to Your Vue.js App"
-    };
+  name: 'Info',
+  data: function () {
+    return {}
   }
-};
+}
 </script>
 
 <style scoped>
