@@ -72,3 +72,20 @@ vue-spotify/*.suo
 vue-spotify/*.ntvs*
 vue-spotify/*.njsproj
 vue-spotify/*.sln
+
+
+vue-crud/.DS_Store
+vue-crud/node_modules/
+vue-crud//dist/
+vue-crud/npm-debug.log*
+vue-crud/yarn-debug.log*
+vue-crud/yarn-error.log*
+vue-crud/test/unit/coverage/
+
+# Editor directories and files
+vue-crud/.idea
+vue-crud/.vscode
+vue-crud/*.suo
+vue-crud/*.ntvs*
+vue-crud/*.njsproj
+vue-crud/*.sln
